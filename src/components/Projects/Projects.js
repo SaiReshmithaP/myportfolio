@@ -26,8 +26,8 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Online Shopping Website"
-              description="The PhoneNumber_Tracker project is a Python tool that uses the phonenumbers library to extract details about a phone number. It displays the country and carrier information based on the input. The script is simple, lightweight, and useful for basic telecom data lookup. Run it by installing dependencies and executing the Python file."
-              ghLink="https://github.com/SaiReshmithaPonnaganti/PhoneNumber_Tracker"
+              description="This online shopping website project allows users to browse, search, and purchase products across various categories. It includes features like user authentication, shopping cart, order tracking, and secure payment integration. Admins can manage inventory, update product listings, and view sales reports. The website provides a user-friendly interface for a seamless shopping experience."
+              ghLink="https://github.com/SaiReshmithaPonnaganti/onlineshpoppingwebsite"
             />
           </Col>
 
@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Blog Management System"
               description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              ghLink="https://github.com/SaiReshmithaP/blogmanagement"
               
             />
           </Col>
